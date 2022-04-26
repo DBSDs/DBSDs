@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 一个前端人
+## 一个乐观的人
+## 一个有理想的人
 <!--
 **DBSDs/DBSDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
